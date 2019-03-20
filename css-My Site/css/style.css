@@ -1,0 +1,157 @@
+/*****************************TAG SELECTOR****************************/
+body{
+  font-family:fantasy;
+  text-align:center;
+  font-family: 'Noto Serif', serif;
+}
+h1,h2{
+  font-family: 'Playfair Display', serif;
+  font-size:380%;
+  color:#66BFBF;
+  font-family: 'Merienda', cursive;
+}
+h3{
+    color:#11999E;
+    font-family: 'Oswald', sans-serif;
+    font-size:180%;
+}
+hr{
+  border-style: dotted none none;
+  width:7%;
+  border-width:10px;
+  color:grey;
+  padding: 19px 10px 2px 10px;
+  margin: 70px auto;
+}
+
+
+p{
+  font-size:1.5rem;
+
+}
+span{
+  text-decoration:underline;
+}
+/*****************************CLASS SELECTOR****************************/
+.bottom-cloud{
+  position:absolute;
+}
+.btn {
+  background-color: #66bfbf;
+  color: white;
+  padding:10px 12px 10px 12px;
+  margin:31px;
+  border:none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity:1;
+  background-color:11999e;
+}
+.bottom-container{
+ background-color:#66bfbf;
+ padding:40px;
+ margin:100px auto 0px auto;
+ height:130px;
+}
+.contact-h1{
+  font-size:30px;
+}
+.contact-h2{
+  font-size:20px;
+  color:black;
+}
+.contact-form{
+margin: 0.1px auto;
+}
+.contact-submit{
+  background-color: black;
+  color: white;
+  padding:10px 0px 10px 0px ;
+  margin:10px 0px 0px 0px;;
+  border:none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 17%;
+  opacity: 1;
+}
+.contact-submit:hover{
+  color:#66bfbf;
+}
+.footer-link{
+  color: #11999E;
+  padding:20px;
+  margin-top:120px;
+  font-size:20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color:#fff;
+  text-decoration: underline;
+  text-decoration-color: 11999e;
+}
+.lower-cont{
+
+}
+.mid-cont{
+
+}
+.mountain{
+  height:55%;
+  width:67%;
+}
+.p-class{
+  font-size:2.1rem;
+  line-height: 1;
+  color:#66BFBF;
+  font-weight: normal;
+}
+.profile-image{
+width:150px;
+}
+.skill-row{
+  margin:100px auto 100px auto;
+  width:50%;
+  text-align:left;
+  line-height:1.4;
+}
+.skill-web{
+  width:25%;
+  float:left;
+  padding:20px;
+}
+
+.skill-cpp{
+  width:25%;
+  float:right;
+  padding: 20px;
+}
+.skill-game{
+  width:25%;
+  float:left;
+  padding: 20px;
+}
+.skill-Football{
+  width:25%;
+  float:right;
+  padding: 20px;
+}
+.top-cloud{
+  position:relative;
+  margin-left:30%;
+ padding-top:50px;
+}
+.upper-cont{
+  background-color:#cbf1f5
+}
+
+/*****************************ID SELECTOR****************************/
+#copyright{
+  color:#Eaf6f6;
+  margin:80px auto auto auto;
+  font-size:15px;
+}
